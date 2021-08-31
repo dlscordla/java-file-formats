@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<salad>
+    <title>Warm salad</title>
+    <ingredient name="Onion">
+        <type>Vegetable</type>
+        <nutritive_values>
+            <kCal>41</kCal>
+            <proteins>1.4</proteins>
+            <fats>0.2</fats>
+            <carbohydrates>8.2</carbohydrates>
+        </nutritive_values>
+        <vitamins>B6, C</vitamins>
+        <weight>50</weight>
+        <cooking_method>roast</cooking_method>
+        <created>2020-09-01 19:45</created>
+        <price>50</price>
+    </ingredient>
+    <ingredient name="Chicken">
+        <type>Meat</type>
+        <nutritive_values>
+            <kCal>113</kCal>
+            <proteins>23.6</proteins>
+            <fats>1.9</fats>
+            <carbohydrates>0.4</carbohydrates>
+        </nutritive_values>
+        <vitamins>B5, B6, PP</vitamins>
+        <weight>200</weight>
+        <cooking_method>stew</cooking_method>
+        <created>2021-08-27 20:38</created>
+        <price>350</price>
+        <country_of_origin>Russia</country_of_origin>
+    </ingredient>
+    <ingredient name="Oyster mushroom">
+        <type>Mushroom</type>
+        <nutritive_values>
+            <kCal>33</kCal>
+            <proteins>3.3</proteins>
+            <fats>0.4</fats>
+            <carbohydrates>3.8</carbohydrates>
+        </nutritive_values>
+        <vitamins>B2, B5, PP</vitamins>
+        <weight>150</weight>
+        <cooking_method>roast</cooking_method>
+        <created>2021-08-23 07:57</created>
+        <price>100</price>
+        <country_of_origin>Russia</country_of_origin>
+    </ingredient>
+    <ingredient name="Mayonnaise">
+        <type>Sauce</type>
+        <nutritive_values>
+            <kCal>629</kCal>
+            <proteins>2.8</proteins>
+            <fats>67.0</fats>
+            <carbohydrates>3.7</carbohydrates>
+        </nutritive_values>
+        <vitamins>E</vitamins>
+        <weight>15</weight>
+        <cooking_method>raw</cooking_method>
+        <created>2021-06-15 16:38</created>
+        <price>380</price>
+        <country_of_origin>Italy</country_of_origin>
+    </ingredient>
+</salad>

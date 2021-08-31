@@ -1,0 +1,76 @@
+{
+  "title": "Warm salad",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "type": "Vegetable",
+      "nutritiveValues": [
+        {
+          "kCal": 41,
+          "proteins": 1.4,
+          "fats": 0.2,
+          "carbohydrates": 8.2
+        }
+      ],
+      "vitamins": "B6, C",
+      "weight": 50,
+      "cookingMethod": "roast",
+      "created": "2020-09-01 19:45",
+      "price": 50
+    },
+    {
+      "name": "Chicken",
+      "type": "Meat",
+      "nutritiveValues": [
+        {
+          "kCal": 113,
+          "proteins": 23.6,
+          "fats": 1.9,
+          "carbohydrates": 0.4
+        }
+      ],
+      "vitamins": "B5, B6, PP",
+      "weight": 200,
+      "cookingMethod": "stew",
+      "created": "2021-08-27 20:38",
+      "price": 350,
+      "originCountry": "Russia"
+    },
+    {
+      "name": "Oyster mushroom",
+      "type": "Mushroom",
+      "nutritiveValues": [
+        {
+          "kCal": 33,
+          "proteins": 3.3,
+          "fats": 0.4,
+          "carbohydrates": 3.8
+        }
+      ],
+      "vitamins": "B2, B5, PP",
+      "weight": 150,
+      "cookingMethod": "roast",
+      "created": "2021-08-23 07:57",
+      "price": 100,
+      "originCountry": "Russia"
+    },
+    {
+      "name": "Mayonnaise",
+      "type": "Sauce",
+      "nutritiveValues": [
+        {
+          "kCal": 629,
+          "proteins": 2.8,
+          "fats": 67.0,
+          "carbohydrates": 3.7
+        }
+      ],
+      "vitamins": "E",
+      "weight": 15,
+      "cookingMethod": "raw",
+      "created": "2021-06-15 16:38",
+      "price": 380,
+      "originCountry": "Italy"
+    }
+  ]
+}
